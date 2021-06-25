@@ -1,0 +1,16 @@
+			Current Weather Stats of Gurugram 
+
+25 Jun 2021 | 11:27:59 PM
+
+
+-----------------------------------
+1. Temperatue : 35.14 deg C
+
+2. Temperature feels like : 35.8 deg C 
+
+3. Weather description : haze
+
+4. Humidity in air : 34 %
+
+5. Wind speed : 3.6 kmph
+-----------------------------------
